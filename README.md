@@ -5,7 +5,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]()
+🔗 [View Portfolio Live](https://my-portfolio-n7wu.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/itz-anjali-27/My_Portfolio]
 cd your-repo-name
 ````
 
