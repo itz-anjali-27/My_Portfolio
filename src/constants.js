@@ -21,7 +21,7 @@ import excel from './assets/tech_logo/excel.jpg';
 import seaborn from './assets/tech_logo/Seaborn.png';
 import powerbi from './assets/tech_logo/powerbi.jpeg';
 import pandas from './assets/tech_logo/pandas.png';
-import numpy from './assets/tech_logo/numpy.png';
+import numpy from './assets/tech_logo/NumPy.png';
 import scikitlearn from './assets/tech_logo/Scikit.jpg';
 import jupyter from './assets/tech_logo/jupyter.jpeg';
 
