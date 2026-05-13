@@ -44,7 +44,7 @@ import vercelLogo from './assets/tech_logo/vercel.png';
 // Project Section Logo's
 import zomato from './assets/work_logo/a.png';
 import dashboard from './assets/work_logo/dashboard.png';
-import scraping from './assets/work_logo/scraping.png';
+import scraping from './assets/work_logo/Scraping.png';
 import dictionary from './assets/work_logo/dictionary.png';
 import todo from './assets/work_logo/todo.png';
 import resume from './assets/work_logo/resume.png';
